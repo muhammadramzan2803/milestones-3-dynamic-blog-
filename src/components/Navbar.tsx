@@ -15,13 +15,13 @@ const Navbar = () => {
 
         <div className="hidden md:flex items-center gap-2">
       {/* Social Icons */}
-          <Link href="https://www.linkedin.com/in/aliza-moin-b975a6276/">
+          <Link href="https://www.linkedin.com/in/noureen-ramzan-a744b12ba/">
             <FaLinkedin
               size={36}
               className="rounded-full border-2 border-[#48cfad] text-white p-2 hover:border-[#48cfad] transition-colors duration-300"
             />
           </Link>
-          <Link href="https://github.com/aliza-moin18">
+          <Link href="https://github.com/muhammadramzan2803">
             <FaGithub
               size={36}
               className="rounded-full border-2 border-[#48cfad] text-white p-2 hover:border-[#48cfad] transition-colors duration-300"
